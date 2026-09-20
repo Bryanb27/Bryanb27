@@ -1,9 +1,18 @@
 ## Project Status
 
 🔨 **In development** — em progresso
-- 
+
+* compound-one-percent
 
 ⏸️ **Stopped** — projeto pausado
+
+* Talkier
+
+* CardGameExample
+
+* Stabling-the-Unstable
+
+* E-Commerce
 
 ✅ **Done** — projeto concluído
 
